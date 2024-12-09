@@ -1,3 +1,7 @@
 hello vvce mysuru
 hell boy
+<<<<<<< HEAD
 ui
+=======
+uixx
+>>>>>>> f3
